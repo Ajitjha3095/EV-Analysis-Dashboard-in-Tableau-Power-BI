@@ -49,3 +49,21 @@ Interactive visualizations include:
 
 ## Project Structure
 
+├── README.md
+├── ev_data.csv ← Dataset file
+├── dashboard_tableau.twbx
+└── dashboard_powerbi.pbix
+
+
+
+---
+
+## Contributing
+
+Contributions welcome! Please open an issue or pull request if you'd like to suggest improvements.
+
+---
+
+## Contact
+
+For questions, reach out at: **[Ajit Jha](https://ajitjha.netlify.app/)**
